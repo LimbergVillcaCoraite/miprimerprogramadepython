@@ -1,0 +1,18 @@
+local -> mi maquina
+stash -> preparado para subir al remop
+remote -> en internet
+
+step 1: ir a github.com - github.io
+step 2: crear un repositorio
+step 3: crear un llave ssh https://www.inmotionhosting.com/support/server/ssh/how-to-add-ssh-keys-to-your-github-account/
+step 4: Quick setup en ssh, no en https
+step 5: copiar todos lo camandos de git|
+step 6: comando git add file -> manda a stash
+step 7: comando git commit -m "mensaje" -> dar un mensaje para que la persona que vea el repositorio sepa que cmabios se hicieron en el mismo
+stop 8: git push -> subir de stash a repositorio remoto
+
+
+
+task
+programa en python (pycharm, vscode, ...) sume, reste, divida, multiplique dos numero
+debe estar en un repositorio de github
